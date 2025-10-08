@@ -3,7 +3,7 @@
 English | [日本語](README_JP.md)
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="PhotoVoca Logo" width="200"/>
+  <img src="assets/images/photovoca.png" alt="PhotoVoca Logo" width="200"/>
 </p>
 
 A Flutter application that transforms everyday objects into English vocabulary learning opportunities through camera-based object recognition.

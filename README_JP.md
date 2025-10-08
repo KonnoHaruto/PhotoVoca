@@ -3,7 +3,7 @@
 [English](README.md) | 日本語
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="PhotoVoca Logo" width="200"/>
+  <img src="assets/images/photovoca.png" alt="PhotoVoca Logo" width="200"/>
 </p>
 
 カメラで撮影した物体を自動認識し、英語の語彙学習に変換するFlutterアプリケーションです。
